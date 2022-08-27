@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>AMAZON</title>
+</head>
+<body bgcolor="cyan"><center>
+<strong><h1>WELCOME TO AMAZON</h1></strong>
+<h4>For Books</h4>
+<form method="post" action="login.html" target=_blank>
+<input type="submit" value="Click here">
+</form>
+</center>
+</body>
+</html>
